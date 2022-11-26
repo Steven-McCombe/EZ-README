@@ -1,4 +1,4 @@
-// TODO: Create a function that returns a license badge based on which license is passed in
+// DONE: Create a function that returns a license badge based on which license is passed in
 
 // If there is no license, return an empty string
 function renderLicenseBadge(projLicense) {
@@ -35,7 +35,7 @@ function renderLicenseBadge(projLicense) {
   }
 };
 
-// TODO: Create a function that returns the license link
+// DONE: Create a function that returns the license link
 // If there is no license, return an empty string
 function renderLicenseLink(projLicense) {
   switch (projLicense) {
@@ -68,7 +68,7 @@ function renderLicenseLink(projLicense) {
     default: ""
   }
 };
-// TODO: Create a function that returns the license section of README
+// DONE: Create a function that returns the license section of README
 // If there is no license, return an empty string
 function renderLicenseSection(projLicense) {
   if (projLicense.length === 0) {

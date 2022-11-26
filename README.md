@@ -18,9 +18,9 @@ N/A
 N/A
 
 ## License 
-  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) 
+  ![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg) 
 
-  [Read more about MIT License here.](https://opensource.org/licenses/MIT)
+  [Read more about Apache License 2.0 here.](https://opensource.org/licenses/Apache-2.0)
   
   
 
