@@ -1,7 +1,7 @@
 # README
 
 ## Description
-N/A
+This project was created to enable a user to quickly generate a high quality readme following a series of prompts. Having a README file is an important part of a github repo, it gives users important information about the repo. Having an application that can generate this instantly, will speed up deployment and give engineers more time to focus on quality within the application.
 
 ## Table of Contents
 * [Installation](#installation)
@@ -12,18 +12,17 @@ N/A
 * [Questions](#questions)
 
 ## Installation
-N/A
+```$ npm i inquirer@8.2.4```
 
 ## Usage
-N/A
+[Click here to see a video walk through](https://watch.screencastify.com/v/EWEvUvzUiaGb0RER87rl)
 
 ## License 
-  ![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg) 
+  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) 
 
-  [Read more about Apache License 2.0 here.](https://opensource.org/licenses/Apache-2.0)
+  [Read more about MIT License here.](https://opensource.org/licenses/MIT)
   
   
-
 ## Contribute
 N/A
 
@@ -32,6 +31,6 @@ N/A
 
 ## Questions
 Contact Links:
-- [Github Profile](https://github.com/N/A)
-- [E-mail Me](mailto:noemail@nomail.com)
+- [Github Profile](https://github.com/STEVEN-MCCOMBE)
+- [E-mail Me](mailto:smccombe93@gmail.com)
 
