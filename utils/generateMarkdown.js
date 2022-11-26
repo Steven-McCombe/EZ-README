@@ -19,6 +19,12 @@ function generateMarkdown(data) {
 ${data.projDesc}
 
 ## Table of Contents
+* [Installation](#installation)
+* [Usage](#usage)
+* [License](#license)
+* [Contribute](#contribute)
+* [Tests](#tests)
+* [Questions](#questions)
 
 ## Installation
 ${data.projInstall}
@@ -27,6 +33,7 @@ ${data.projInstall}
 ${data.projUsage}
 
 ## License
+${data.license} 
 
 ## Contribute
 ${data.projContribute}
